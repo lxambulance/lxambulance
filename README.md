@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lxambulance
+- 👋 Hi, I’m @lxambulance.
 - 👀 I’m interested in Algorithm, Network, Comic, Game. All things that I feel **cool**.
-- 🌱 I’m currently learning Network(Next generation network architecture, VPP, DPDK). 
+- 🌱 I’m currently studying about Network(Next generation network architecture, ICN). 
 - 💞️ I’m learning how to create computer games.
 - 📫 How to reach me lxambulance@gmail.com
 
