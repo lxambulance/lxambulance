@@ -1,7 +1,7 @@
 # Hello Programmers
 
 - 👋 Hi, I’m @lxambulance.
-- 👀 I’m interested in Algorithms, Network, Comics, Games. All things that I feel **cool**.
+- 👀 I’m interested in Algorithms, Network, Comics, Games, all things that I feel **cool**.
 - 🌱 I’m currently studying about network stack(Next generation network architecture, ICN). 
 - 💞️ Also, I’m learning to create computer games in my spare time.
 - 📫 How to reach me lxambulance@gmail.com(abroad) or taskkiller@foxmail.com(in China)
