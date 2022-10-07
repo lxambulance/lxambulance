@@ -8,7 +8,7 @@
 
 # Some statics about me
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![Profile views](https://komarev.com/ghpvc/?username=lxambulance&color=lightgrey)
 
 [![lxambulance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxambulance&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
